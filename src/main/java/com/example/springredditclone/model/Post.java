@@ -38,3 +38,4 @@ public class Post {
     @JoinColumn(name = "id", referencedColumnName = "id")
     private Subreddit subreddit;
 }
+
